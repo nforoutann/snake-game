@@ -1,2 +1,3 @@
 # snake-game
-Simple snake game with two players (including both food and bomb) - A project for the basics of programming
+A simple two-player snake game in the terminal, this game consists of 2 kinds of food, one of which earns you a higher score. Two additional features that make the game more enjoyable are the bomb and the timer option.
+Have fun!:)
